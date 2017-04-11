@@ -1,0 +1,13 @@
+   *** Version History ***
+   
+   
+V-0.1.0: Unofficial Release
+Released: 02/15/2016
+**Libraries**
+GCore V-0.1.0
+GMath V-0.4.0
+
+  --  Attempt to modularize the libraries of GMath.
+      
+  --  Contains all of the polygon and shape classes and tools that gmath had, this is in order to
+      create smaller libraries for programs to use when constructing them.
